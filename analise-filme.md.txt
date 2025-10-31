@@ -3,3 +3,9 @@
 Shrek é um filme de animação que subverte os contos de fadas tradicionais. A história segue um ogro solitário que embarca em uma jornada para resgatar uma princesa e, no processo, descobre o valor da amizade e do amor verdadeiro.
 
 ![Pôster do Shrek](https://upload.wikimedia.org/wikipedia/pt/thumb/7/73/Shrek_poster.jpg/250px-Shrek_poster.jpg)
+
+## Personagens Principais
+
+* **Shrek:** O ogro protagonista que só queria paz em seu pântano.
+* **Burro:** O fiel e falante companheiro de Shrek.
+* **Princesa Fiona:** A princesa presa na torre, que guarda um grande segredo.
